@@ -1,4 +1,4 @@
-KagControllerasdfasdfasd
+KagController
 =============
 
 Testing
