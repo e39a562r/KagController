@@ -1,4 +1,4 @@
-KagControllerdfgdfgdfgdfxzczxczxczxc
+KagController
 =============
 
 Testing
